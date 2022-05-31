@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What is Localization?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7419abbe-061c-4d34-b133-b4edca7597c8</md:uuid>
+</metadata>
+  <content>
+    <para id="id12628045">The module “<link document="m15234">OER Licensing and Conditions of Use</link>,” provided an overview of what authors need to know about licensing and conditions of use. We also talked about the licensing options in OER Commons. This module, “What is Localization?,” offers an overview of localization, which is about making content usable and adaptable to meet your local needs.</para>
+    <section id="id-67672107778">
+      <title>Localization and OER</title>
+      <para id="id12187918">In the context of OER, <term>localization</term> refers to the process of taking educational resources developed for one context and adapting them for other contexts. These contexts can, for example, be geographical, pedagogical, political, or technical. The practice of localization encompasses more than the translation of materials into a local language or swapping a photo to reflect a culture. Localization is at the heart of the OER process—it exemplifies diversity, openness, and reusability.</para>
+      <para id="id9783868">No matter where you live or what you teach, when you modify open and freely shared materials for your own use, you are localizing the materials. There are many reasons why educators and learners localize materials. Here are a few:</para>
+      <list list-type="bulleted" id="id8964369">
+        <item>To address a particular teaching style or learning style</item>
+        <item>To adapt for a different grade level</item>
+        <item>To adapt for a different discipline</item>
+        <item>To adjust for a different learning environment</item>
+        <item>To address diversity needs</item>
+        <item>To address a cultural preference</item>
+        <item>To support a specific pedagogical need</item>
+        <item>To address either a school or a district’s standardized curriculum</item>
+      </list>
+      <para id="id9890322">What all these examples have in common is the ability to customize materials to meet unique teaching and learning needs. The OER process of localizing materials is an empowering activity: those using the materials can customize them the way <emphasis>they want</emphasis>. Materials found in an OER repository such as <link url="http://www.oercommons.org/">OER Commons</link> are different from materials received from a publisher. OER materials most often have <link url="http://www.oercommons.org/help/learn-more-about/conditions-of-use">licenses for conditions of use</link> that make them customizable to meet local teaching and learning needs. Most publisher materials cannot be modified.</para>
+      <para id="id5364454">When you use materials found in an OER repository, modify them, and share back the modifications you made, you are practicing the OER process. You are both localizing the materials for your own needs as well as making them freely available to other educators and learners around the world. Sharing back the modifications you made furthers understanding of how the material was adapted.</para>
+      <section id="id-521603189161">
+        <title>OER stories from around the world</title>
+        <para id="id13301095"><link url="http://elearningnetworks.com/OERCommons/stories/graphicdesign.html">Inga</link> is a community college teacher in Denmark looking for new ways to present a lesson about using patterns in graphic design.</para>
+        <para id="id7494162"><link url="http://elearningnetworks.com/OERCommons/stories/graphicdesign2.html">A lesson plan</link> travels across the world several times, being customized for each local teaching and learning need.</para>
+        <para id="id13128271">Your experience using open and freely shared course-related materials is valuable in the reuse and evolution of the materials. <link url="http://elearningnetworks.com/OERCommons/stories/submityourstory.html">Tell us your story</link>; how you’ve used these materials and how their use has impacted how you teach or learn.</para>
+      </section>
+      <section id="id-0157503095096">
+        <title>Creating original materials to share</title>
+        <para id="id8894278">As previously mentioned, localization is part of the OER process: it is the way for individuals to contribute their perspectives and contextual experiences within an educational resource. The materials you create and share are a valuable resource for others to use or build upon. These materials help extend OER into becoming both a scalable and sustainable practice.</para>
+        <para id="id12392377">While creating materials for your own educational use, it may be difficult to imagine how someone in a different circumstance in another part of the world may want to use your material. However, if you keep the following tips in mind while you are creating these materials for sharing, it can assist in making the modification process easier for the next person who wants to customize them for their own use.</para>
+        <list list-type="bulleted" id="id10677940">
+          <item><term>Document file format</term>: Create materials in the most flexible formats available. HTML is one of the most widely available formats—HTML documents can be viewed with any web browser and the files are easily modifiable. Another popular format for document creation is Microsoft Word. Because Microsoft Word is a commercial product, some people may not own this program. Instead of saving your material as a Word document (.doc format), save the Microsoft Word document as a text (.txt) file or a rich text format file (.rtf). Both .txt and .rtf formats can be opened with any word-processing program.</item>
+          <item><term>Design</term>: Keep the design of your materials simple. Following W3C’s <link url="http://www.w3.org/WAI/quicktips">10 Quick Tips to Make Accessible Web Sites</link>, will help make your materials accessible to those with disabilities.</item>
+          <item><term>Share</term>: Make your materials easy to find by submitting them to an OER repository like OER Commons. This helps others find your materials because they can be searched by many factors, such as keywords, grade level, subject area, or type of material.</item>
+          <item><term>License</term>: License your materials using a <link url="http://creativecommons.org/licenses">Creative Commons</link> license so others can use, re-use, or remix your work.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-960951342596">
+      <title>Activity: Localization Exercise</title>
+      <para id="id11741233">Locate educational materials from any OER repository site such as OER Commons and adapt them for your own use. Share them back. For information on how to submit your materials to OER Commons, read “<link document="m15235">Submitting Materials to OER Commons</link>.” </para>
+    </section>
+    <section id="id-297019204469">
+      <title>Activity: Group Localization Exercise</title>
+      <para id="id13207515">This <link url="http://wiki.icommons.org/index.php/Localization_Activity">localization activity</link> is from iCommons: The goal of this activity is to produce modified content that is adapted and suitable to a new purpose, situation or locale; to analyze and reflect upon the process and gain insights into the challenges for practitioners, content developers, and framework/tool providers. </para>
+    </section>
+    <section id="id-38631926762">
+      <title>Activity: Share Your Experience</title>
+      <para id="id12925320">Participate in discussions about how open education content is localized and how the creation of OER facilitates or impedes making content be context-specific. In the OER Commons discussion “<link url="http://www.oercommons.org/matters/oer_topic/localization">Localization</link>,” share your thoughts about this important issue. Here are a few questions to consider in your post:</para>
+      <list list-type="enumerated" id="id6909375">
+        <item>What modifications did you make in the materials you used from an OER site? Did you share these modifications back? If not, why not?</item>
+        <item>How is content localized at the individual, school, cultural, and national level, and what are the benefits?</item>
+        <item>What considerations, constraints, and enablers exist in sharing, using and reusing my project's OER content in local teaching and learning situations?</item>
+        <item>Is localization only a process of adapting existing materials for local conditions? Or is it also a methodology for creating new materials?</item>
+      </list>
+    </section>
+    <section id="id-744718191857">
+      <title>For More Information</title>
+      <para id="id13096840">The following resources have been selected to provide more information on concepts we covered in this module.</para>
+      <list list-type="bulleted" id="id9581830">
+        <item>Openness, Localization, and the Future of Learning Objects: <link url="http://opencontent.org/presentations/bcnet07">http://opencontent.org/presentations/bcnet07</link></item>
+        <item>Overview of the OSS and OER in Education Series: <link url="http://wikieducator.org/Overview_of_the_OSS_and_OER_in_Education_Series">http://wikieducator.org/Overview_of_the_OSS_and_OER_in_Education_Series</link></item>
+        <item>OER’S, DL’s, Reuse and Culture: <link url="http://jargonyowords.wordpress.com/2006/12/16/questions-about-ocw">http://jargonyowords.wordpress.com/2006/12/16/questions-about-ocw</link></item>
+      </list>
+    </section>
+    <section id="id-840241495027">
+      <title>Other modules in this course include …</title>
+      <list list-type="bulleted" id="id12186628">
+        <item>
+          <link document="m15211">Why OER?</link>
+        </item>
+        <item>
+          <link document="m15213">Finding OER Materials You Can Start Using Now</link>
+        </item>
+        <item>
+          <link document="m15214">Tagging, Rating, and Reviewing OER Materials</link>
+        </item>
+        <item>
+          <link document="m15215">My OER Portfolio</link>
+        </item>
+        <item>
+          <link document="m15235">Submitting Materials to OER Commons</link>
+        </item>
+        <item>
+          <link document="m15234">OER Licensing and Conditions of Use</link>
+        </item>
+        <item>
+          <link document="m15224">Students and OER</link>
+        </item>
+        <item>
+          <link document="m15226">What are Open Textbooks?</link>
+        </item>
+        <item>OER Case Study</item>
+        <item>
+          <link document="m15223">Glossary</link>
+        </item>
+      </list>
+      <para id="id7098709"/>
+      <para id="id4819357">This module offered an overview of localization—making content context-specific. The next module, “<link document="m15224">Students and OER</link>,” will present OER activities you can use with your students.</para>
+    </section>
+    <section id="id-307322870316">
+      <title>OER Commons Links</title>
+      <para id="id10073533">For more information about OER Commons, send an email to <link url="mailto:info@oercommons.org">info@oercommons.org</link>.</para>
+      <para id="id8916650">Use <link url="http://www.oercommons.org/join_form">this feedback form</link> to send OER Commons general feedback, a feature request, or information about a bug/problem you had using the site.</para>
+      <para id="id4034132">To see the ever-growing list of the new content providers and contributors to OER Commons, visit the <link url="http://www.oercommons.org/oer/providers">Content Providers</link> page often. You can be one too!</para>
+    </section>
+    <section id="id-793755830082">
+      <title>“Quotable Quote”</title>
+      <para id="id12641132">Diversity promotes quality.<footnote id="idm14412752">Shneiderman, B. (2002). <cite><cite-title>Leonardo’s Laptop.</cite-title></cite> Cambridge, MA: MIT Press.</footnote></para>
+    </section>
+    <section id="id-47338841333">
+      <title>About This Module</title>
+      <para id="id8853648"><emphasis>The "How Tos" of OER Commons </emphasis>is a set of learning modules evolving out of the development of OER Commons (<link url="http://www.oercommons.org/">http://www.oercommons.org</link>), a teaching and learning network for free-to-use educational materials from around the world, created and licensed by the Institute for the Study of Knowledge Management in Education (ISKME).</para>
+      <para id="id11058665">Course contributors are Lisa Petrides, Amee Godwin, and Cynthia Jimes, and online learning consultant, Patricia Delich.</para>
+      <para id="id8214244">For more information, visit <link url="http://www.iskme.org/">http://www.iskme.org</link> and <link url="http://elearningnetworks.com/">http://elearningnetworks.com</link>.</para>
+    </section>
+  </content>
+</document>

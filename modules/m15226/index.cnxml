@@ -1,0 +1,180 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What are Open Textbooks?</title>
+  <metadata>
+  <md:content-id>m15226</md:content-id><md:title>What are Open Textbooks?</md:title>
+  <md:abstract>An overview of what open textbooks are, how they are created, and how you can participate.</md:abstract>
+  <md:uuid>9937d48b-15be-4548-9c27-3fd3b526f330</md:uuid>
+</metadata>
+  <content>
+    <para id="id3935870">The module “<link document="m15224">Students and OER</link>” presented OER activities you can use with your students. This module, “What are Open Textbooks?,” provides an overview of open textbooks.</para>
+    <section id="id-83918109906">
+      <title>What are Open Textbooks?</title>
+      <para id="id4879637">An emerging development in OER is <term>open textbooks</term>, which are textbooks that are freely available with nonrestrictive licenses. Covering a wide range of disciplines, open textbooks are available to download and print in various file formats from several web sites and OER repositories. Open textbooks can range from public domain books to existing textbooks to textbooks created specifically for OER. Open textbooks help solve the problems of the high cost of textbooks, book shortages, and access to textbooks as well as providing the capacity to better meet local teaching and learning needs.</para>
+      <section id="id-764990400736">
+        <title>What do open textbooks look like?</title>
+        <para id="id7293683">There is a wide range of designs for open textbooks. The number of sites that provide access to them reflects the diversity of their design. Several file formats are often provided for open textbooks; typical formats are: HTML, Adobe PDF, and plain text. To download an open textbook, locate one from an OER repository or web site. The following list illustrates the vast landscape of sites that make open textbooks freely available. Go to one or more of these sites to locate an open textbook of interest to you:</para>
+        <list id="id7293686" list-type="bulleted">
+          <item><link url="http://www.gutenberg.org/">Project Gutenberg</link> was the first producer of free electronic books. See their top 100 downloads: <link url="http://www.gutenberg.org/browse/scores/top">http://www.gutenberg.org/browse/scores/top</link>.</item>
+          <item><link url="http://en.wikibooks.org/wiki/Help:About">Wikibooks</link> is a Wikimedia project started in 2003 with the mission to create a free collection of open-content textbooks that anyone can edit. Wikibooks provides <link url="http://www.wikibooks.org/">support for multiple languages</link>.</item>
+          <item><link url="http://www.fhsst.org/">Free High School Science Texts</link> (FHSST) was initiated by young South African scientists and now brings together volunteers from around the world who are willing to contribute to the writing of the books.</item>
+          <item><link url="http://www.opensourcetext.org/">The California Open Source Textbook Project</link> (COSTP) is a collaborative, public/private undertaking. It has been created to address the high cost, content range, and consistent shortages of K-12 textbooks in California.</item>
+          <item><link url="http://www.ibiblio.org/obp">Open Book Project</link> is aimed at the educational community and seeks to encourage and coordinate collaboration among students and teachers for the development of high quality, freely distributable textbooks and educational materials on a wide range of topics.</item>
+          <item><link url="http://manybooks.net/">Manybooks.net</link> provides free eBooks for PDAs, iPods, or eBook readers. Books are available in several languages.</item>
+          <item><link url="http://theassayer.org/">The Assayer</link> provides a catalog of books whose authors have made them available for free.</item>
+        </list>
+      </section>
+      <section id="id-231063689009">
+        <title>Using open textbooks in teaching and learning</title>
+        <para id="id4342413">There are a number of advantages to adopting an open textbook over a traditional textbook. The ability to customize a text so that it is more closely aligned with one’s teaching philosophy and pedagogical approach is a benefit to teachers. Students benefit from this as well; with targeted topics, activities, and assignments customized for their individual learning needs, the possibility of a higher engagement with the material is more likely than with a traditional textbook. The capacity to customize a text into discernable chunks offers a more personalized approach to learning.</para>
+        <para id="id3622705">The following table compares the capabilities of open and traditional textbooks.</para>
+        <table id="id3622710" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>
+                  <term>Open textbooks</term>
+                </entry>
+                <entry>
+                  <term>Traditional textbooks</term>
+                </entry>
+              </row>
+              <row>
+                <entry>dynamic</entry>
+                <entry>static</entry>
+              </row>
+              <row>
+                <entry>modifiable/customizable</entry>
+                <entry>non-customizable</entry>
+              </row>
+              <row>
+                <entry>targeted in-depth material</entry>
+                <entry>generic material</entry>
+              </row>
+              <row>
+                <entry>timely</entry>
+                <entry>dated</entry>
+              </row>
+              <row>
+                <entry>personalized for local conditions</entry>
+                <entry>standardized content</entry>
+              </row>
+              <row>
+                <entry>addresses multiple learning styles</entry>
+                <entry>assumes a uniform learning style</entry>
+              </row>
+              <row>
+                <entry>free</entry>
+                <entry>costly</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id9166712">Read about a teacher’s experience in adopting an open textbook: <link url="http://www.edutopia.org/banish">No Books, No Problem: Teaching Without a Text</link>.</para>
+        <para id="id10473307">Read about how an editor from a major publisher gives his <link url="http://www.edutopia.org/node/1195">insider’s perspective</link> of the inner workings of textbook publishing.</para>
+        <para id="id8629126">Read Monte Wolverton’s <link url="http://www.edutopia.org/images/graphics/001300_73pop.gif">humorous look</link> at the textbook creation process (via Edutopia’s web site).</para>
+        <para id="id7297020">See a list of ideas for <link url="http://www.edutopia.org/how-toss-text">How-To: Toss the Text</link>.</para>
+      </section>
+      <section id="id-856807412549">
+        <title>How are open textbooks created?</title>
+        <para id="id7275433">Here are two stories of how two different groups collaborated to produce open textbooks in a <term>peer production</term> environment.</para>
+        <para id="id7668654">A South African graduate student saw a need when a group of high school students told him they did not have a science textbook. This encounter led to a worldwide initiative called <link url="http://www.fhsst.org/">Free High School Science Texts</link> that provides free science and mathematics textbooks for Grades 10 to 12 science learners in South Africa.</para>
+        <para id="id5204645">An interested group of individuals started a Free Textbooks group during the 2007 <link url="http://icommons.org/">iCommons</link> Summit in Dubrovnik, Croatia. The group seeks to create a knowledge base to help educators worldwide develop Free Textbook projects. For more information, go to: <link url="http://wikieducator.org/Free_Textbooks">http://wikieducator.org/Free_Textbooks</link>. Subscribe to their mailing list: <link url="http://freeculture.org/cgi-bin/mailman/listinfo/freetextbooks">http://freeculture.org/cgi-bin/mailman/listinfo/freetextbooks</link>.</para>
+      </section>
+      <section id="id-749408274053">
+        <title>How can you participate?</title>
+        <para id="id8360332">Open textbook projects rely on volunteers who are committed to a vision of providing high-quality, freely available textbooks to the worldwide community of educators and learners. Most of the projects mentioned in this module have information on their site on how you can participate in their project. There are many levels of participation; for example, you can:</para>
+        <list id="id9244285" list-type="bulleted">
+          <item>subscribe to their mailing list or news feed</item>
+          <item>proofread pages</item>
+          <item>contribute content you have already created</item>
+          <item>help locate authors who may want to contribute content</item>
+          <item>author new content</item>
+          <item>create images</item>
+          <item>write a review about an open textbook</item>
+          <item>provide translation support for content</item>
+          <item>donate funds to keep the project running</item>
+          <item>use open textbooks in your teaching and learning and talk with your colleagues about your experience</item>
+          <item>host an in-person event for content creators to gather and work together</item>
+          <item>contact the project’s coordinator and ask what is needed and how you can help.</item>
+        </list>
+      </section>
+      <section id="id-394178567136">
+        <title>OER stories from around the world</title>
+        <para id="id9241118"><link url="http://elearningnetworks.com/OERCommons/stories/southafrica.html">It's 2 am in South Africa</link> and a delivery van is taking 100 hard copies of the free high school science text to a school in a small village …</para>
+        <para id="id5081342">Your experience using open and freely shared course-related materials is valuable in the reuse and evolution of the materials. <link url="http://elearningnetworks.com/OERCommons/stories/submityourstory.html">Tell us your story</link>; how you’ve used these materials and how their use has impacted how you teach or learn.</para>
+      </section>
+    </section>
+    <section id="id-519460867017">
+      <title>Activity: Review an Open Textbook</title>
+      <para id="id3289403">Using the sites mentioned in this module, review a few open textbooks that you can use in your teaching and learning. If you are not ready to replace your existing traditional textbook with an open textbook, analyze what topics are weak or missing in your present textbook and use the open textbook for supplemental materials.</para>
+    </section>
+    <section id="id-0953570714321">
+      <title>Activity: Share Your Experience</title>
+      <para id="id4254563">We’re discussing the new avenues for teachers and learners to select and augment learning resources that meet one’s unique teaching and learning needs, including open textbooks. In the OER Commons discussion “<link url="http://www.oercommons.org/matters/oer_topic/teaching-and-learning">Teaching and Learning,</link>” share your thoughts about this important issue. Here are a few questions to consider in your post:</para>
+      <list id="id9277537" list-type="enumerated">
+        <item>If you have used an open textbook, share your experience.</item>
+        <item>If you haven’t used an open textbook, what are the adoption issues?</item>
+        <item>What have been your students’ reactions to using an open textbook?</item>
+        <item>What are your thoughts or experiences with participating in open textbook projects? What role(s) did you take? (e.g., authoring content, editor, etc.)</item>
+      </list>
+    </section>
+    <section id="id-109630079809">
+      <title>For More Information</title>
+      <para id="id3732330">The following resources have been selected to provide more information on concepts we covered in this module.</para>
+      <list id="id10340282" list-type="bulleted"><item>OER Commons textbooks: <link url="http://www.oercommons.org/courses/material_types/textbooks">http://www.oercommons.org/courses/material_types/textbooks</link></item>
+        <item>Public Domain Textbook Sources: <link document="m14471">http://cnx.org/content/m14471/latest</link></item>
+      </list>
+    </section>
+    <section id="id-611876898127">
+      <title>Other modules in this course include …</title>
+      <list id="id8868765" list-type="bulleted">
+        <item>
+          <link document="m15211">Why OER?</link>
+        </item>
+        <item>
+          <link document="m15213">Finding OER Materials You Can Start Using Now</link>
+        </item>
+        <item>
+          <link document="m15214">Tagging, Rating, and Reviewing OER Materials</link>
+        </item>
+        <item>
+          <link document="m15215">My OER Portfolio</link>
+        </item>
+        <item>
+          <link document="m15235">Submitting Materials to OER Commons</link>
+        </item>
+        <item>
+          <link document="m15234">OER Licensing and Conditions of Use</link>
+        </item>
+        <item>
+          <link document="m15222">What is Localization?</link>
+        </item>
+        <item>
+          <link document="m15224">Students and OER</link>
+        </item>
+        <item>OER Case Study</item>
+        <item>
+          <link document="m15223">Glossary</link>
+        </item>
+      </list>
+    </section>
+    <section id="id-678016190405">
+      <title>OER Commons Links</title>
+      <para id="id9276942">For more information about OER Commons, send an email to <link url="mailto:info@oercommons.org">info@oercommons.org</link>.</para>
+      <para id="id8964446">Use <link url="http://www.oercommons.org/feedback">this feedback form</link> to send OER Commons general feedback, a feature request, or information about a bug/problem you had using the site.</para>
+      <para id="id9745769">To see the ever-growing list of the new content providers and contributors to OER Commons, visit the <link url="http://www.oercommons.org/oer/providers">Content Providers</link> page often. You can be one too!</para>
+    </section>
+    <section id="id-114330834316">
+      <title>“Quotable Quote”</title>
+      <para id="id10449290">Knowledge is the only kind of wealth that multiples when you give it away.<footnote id="id20325949">Schwartz, P. (1996). <cite><cite-title>The Art of the Long View.</cite-title></cite> New York: Doubleday.</footnote></para>
+    </section>
+    <section id="id-773645839024">
+      <title>About This Module</title>
+      <para id="id10470035"><emphasis>The "How Tos" of OER Commons </emphasis>is a set of learning modules evolving out of the development of OER Commons (<link url="http://www.oercommons.org/">http://www.oercommons.org</link>), a teaching and learning network for free-to-use educational materials from around the world, created and licensed by the Institute for the Study of Knowledge Management in Education (ISKME).</para>
+      <para id="id8965787">Course contributors are Lisa Petrides, Amee Godwin, and Cynthia Jimes, and online learning consultant, Patricia Delich.</para>
+      <para id="id8965793">For more information, visit <link url="http://www.iskme.org/">http://www.iskme.org</link> and <link url="http://elearningnetworks.com/">http://elearningnetworks.com</link>.</para>
+    </section>
+  </content>
+</document>

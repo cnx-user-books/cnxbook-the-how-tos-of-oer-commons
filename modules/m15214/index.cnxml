@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tagging, Rating, and Reviewing OER Materials</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>dd4b6796-bc4a-4669-a4e4-5a3f83805bfb</md:uuid>
+</metadata>
+  <content>
+    <para id="id11186590">The module “<link document="m15213">Finding OER Materials You Can Start Using Now</link>,” showed how quickly you can find OER materials. In this module, “Tagging, Rating, and Reviewing OER Materials,” we’ll talk about ways you can begin contributing to OER Commons by using tags as well as rating and reviewing materials.</para>
+    <section id="id-290596276903">
+      <title>The What, Why, and How of Tags</title>
+      <para id="id10376474">In general,<term> tags</term> classify content the way <emphasis>you</emphasis> want to organize it. Tags are dynamic and created by the people who use a site as opposed to being a pre-defined set of keywords created by the owners of the site. So, a tag is a keyword created by a person who uses a site. Some examples of sites that use tagging are:</para>
+      <list list-type="bulleted" id="id11643829">
+        <item><link url="http://www.flickr.com/">Flickr</link>, for sharing photos</item>
+        <item><link url="http://www.youtube.com/">YouTube</link> for sharing videos</item>
+        <item><link url="http://del.icio.us/">del.icio.us</link> for sharing bookmarks</item>
+        <item><link url="http://www.oercommons.org/">OER Commons</link> for sharing instructional materials.</item>
+      </list>
+      <para id="id11892759">What all these sites have in common are people sharing content in an open community setting. To keep track of their own and others’ content, users classify content of interest by using tags.</para>
+      <para id="id8294378">The creation of tags give users of a site the ability to participate in classifying and organizing content the way they want to. Because tags come from the people who use the site, tagging is considered a <term>bottom up</term> classification scheme as opposed to <term>top down</term> (an existing pre-defined set of keywords from the site’s administrators).</para>
+      <para id="id6465295">OER Commons uses a bottom up classification scheme as well as a top down one. The bottom up classification scheme (tags) enables you to create and assign keywords, making them immediately searchable. In the top down classification scheme, keywords are created and assigned by the site’s administrators (in this case, OER Commons). The benefit to bottom up is that it gives users the flexibility to create their own way to classify the materials; top down provides a standardized set of keywords. To learn more, read <link url="http://infotangle.blogsome.com/2005/12/07/the-hive-mind-folksonomies-and-user-based-tagging">The Hive Mind: Folksonomies and User-Based Tagging</link>.</para>
+      <para id="id7391180">Tagging items is one of the ways to become an active contributor in the open source movement, which is defined as a distributed, participatory, and collaborative environment. Why would you want to actively participate in OER Commons? With so many ways to teach and learn, your perspective lends a unique dimension to OER. Others can learn from your OER process.</para>
+      <para id="id10164936">When you create tags, you are sharing the way you classify items, which can be useful to others who are searching for the items. </para>
+      <para id="id10390668">Here’s one example of how tagging can help you as an educator or learner:</para>
+      <para id="id11392866">One person using a lesson plan about the Spanish influenza of 1918 might assign a tag such as flu, while another might assign a tag such as pandemic. Once assigned by users, tags are tied to the given resource, and become a searchable way to find that resource as well as other resources that are tagged or associated with the same labels. These new tags provide additional context for the item and help make it more findable. Your perspectives give others a new lens into seeing the content from a different angle and in turn, may give new ideas on how to use (or re-use) it.</para>
+      <para id="id10956797">On the <link url="http://www.oercommons.org/">OER Commons homepage</link>, the “Top 30 Tags” are located on the right side of the page. (See Figure 1.) Clicking on any tag displays a results page with OER items tagged with that particular keyword. To view all available tags in OER Commons, click on the “View all tags” link located in the Top 30 Tags box. Viewing all tags shows the collection of all tags on a site, which is called a “<term>TagCloud</term>.” The size of the word indicates its popularity. For a visual example of OER Common’s TagCloud, see Figure 2.</para>
+      <figure id="id11370758">
+        <media id="idm4635760" alt=""><image src="../../media/graphics1-08b2.jpg" mime-type="image/jpeg" height="342" width="233"/></media>
+      </figure>
+      <para id="id11471033">Figure 1. A visual representation of the Top 30 Tags in OER Commons. This list changes; when you view it, different tags may be shown.</para>
+      <figure id="id11116556">
+        <media id="idm5959456" alt=""><image src="../../media/graphics2-47c0.jpg" mime-type="image/jpeg" height="228" width="600"/></media>
+      </figure>
+      <para id="id7129411">Figure 2. A visual representation of OER Common’s TagCloud. This list also changes as people add more tags. And as more people use a particular tag, its font size increases.</para>
+      <section id="id-168196159044">
+        <title>Tags and Metadata</title>
+        <para id="id11813718"><term>Metadata</term> is data that provides information about other data. When you <link url="http://www.oercommons.org/matters">submit your materials</link> to OER Commons, you provide information in the submission form such as the title, author name, type of material, keywords, and tags. This information becomes attached to that material. This information is called metadata. When someone conducts a search, the search engine uses the metadata to find and retrieve the material.</para>
+        <para id="id11137147">Additionally, when you provide information about others’ materials by rating, reviewing, and tagging the material, you are providing metadata that becomes attached to that material.</para>
+        <para id="id11087306">The metadata you provide in your own materials as well as the information you provide by tagging, rating, and reviewing of others’ materials enriches the content by giving descriptive information that assists in searching and re-use of the materials.</para>
+        <para id="id11244753"><link url="http://www.oercommons.org/help/help-with-searching/searching-and-metadata">Read more</link> about how OER Commons uses metadata for searching.</para>
+      </section>
+      <section id="id-360947931961">
+        <title>Activity: Tag an OER item</title>
+        <list list-type="enumerated" id="id11433325">
+          <item>Go to <link url="http://www.oercommons.org/">OER Commons</link>. You must be logged in to do this activity.</item>
+          <item>Locate any OER item by searching with a keyword or clicking on a tag.</item>
+          <item>After finding an OER item, click on its title. You should see a page similar to the one in Figure 3.</item>
+          <item>Locate “Tags for This Item” on the right side of the window. (See an example in Figure 3.) Click on “Add Tags.”</item>
+          <item>The page “Add Tags” appears. Add your own tag or select a tag from the list below. Each tag should be on its own line.(Figure 4.)</item>
+          <item>When you’re done, click the “Save” button.</item>
+          <item>Your tag(s) will then appear in “Tags for this Item.”</item>
+        </list>
+        <figure id="id11857629">
+          <media id="idm3088928" alt=""><image src="../../media/graphics3-5bce.jpg" mime-type="image/jpeg" height="168" width="285"/></media>
+        </figure>
+        <para id="id11044148">Figure 3. A visual representation of the area where you add tags. When you tag an item, others will see the tag when they view the item.</para>
+        <figure id="id11378252">
+          <media id="idm7487408" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="454" width="600"/></media>
+        </figure>
+        <para id="id11415931">Figure 4. A visual representation of an example of the “Add Tags” page.</para>
+      </section>
+      <section id="id-871385744232">
+        <title>OER stories from around the world</title>
+        <para id="id11226236"><link url="http://elearningnetworks.com/OERCommons/stories/music.html">A music teacher</link> tags material she found to give it more meaningful context.</para>
+        <para id="id11544829"><link url="http://elearningnetworks.com/OERCommons/stories/chemistry.html">Coming full circle</link> with the OER process: 2 chemistry teachers use the same activity.</para>
+        <para id="id7517916">Your experience using open and freely shared course-related materials is valuable in the reuse and evolution of the materials. <link url="http://elearningnetworks.com/OERCommons/stories/submityourstory.html">Tell us your story</link>; how you’ve used these materials and how their use has impacted how you teach or learn.</para>
+      </section>
+    </section>
+    <section id="id-918309565481">
+      <title>Rating Provides a Lens</title>
+      <para id="id10377518">After using an item in OER Commons, consider sharing your experience by rating it. When you rate items you have used, your rating information becomes attached to the item and provides another lens for others as they make decisions to use it.</para>
+      <section id="id-821091050386">
+        <title>Activity: Rate an OER item</title>
+        <list list-type="enumerated" id="id10829547">
+          <item>Go to <link url="http://www.oercommons.org/">OER Commons</link>. You must be logged in to do this activity.</item>
+          <item>Locate any OER item by searching with a keyword or clicking on a tag.</item>
+          <item>After finding an OER item, click on its title. You should see a page similar to the one in Figure 3.</item>
+          <item>Click on the link “Rate Item.”</item>
+          <item>A drop down menu appears. </item>
+          <item>Rate the item by choosing a number.</item>
+        </list>
+        <para id="id10705623">Items that you rate are attached to the item as well as being placed in “My OER Portfolio.” <link document="m15215">Learn more</link> about “My OER Portfolio.”</para>
+      </section>
+    </section>
+    <section id="id-489865832091">
+      <title>Reviewing Provides Even More Understanding</title>
+      <para id="id11405260">Just as rating an OER item contributes to the richness of its information, reviewing it provides even more understanding. There are 3 categories on the Review Form:</para>
+      <list list-type="bulleted" id="id10265656">
+        <item>Use</item>
+        <item>Overall Quality</item>
+        <item>Usefulness and Recommendations for Future Use.</item>
+      </list>
+      <para id="id11508069">Each category asks questions that help to provide a deeper understanding of how the material can be used. Your feedback gives others ideas on how they might implement the OER item.</para>
+      <section id="id-649387533231">
+        <title>Activity: Review an OER item</title>
+        <list list-type="enumerated" id="id11572873">
+          <item>Go to <link url="http://www.oercommons.org/">OER Commons</link>. You must be logged in to do this activity.</item>
+          <item>Locate any OER item by searching with a keyword or clicking on a tag.</item>
+          <item>After finding an OER item, click on its title. You should see a page similar to the one in Figure 3.</item>
+          <item>Under the title, click on the link “Review Item.”</item>
+          <item>The page “Add Review” appears.</item>
+          <item>Review the item by completing this form as appropriate.</item>
+          <item>Click the “Save” button.</item>
+        </list>
+        <para id="id10777730">Your reviews are attached to the item as well as being placed in “My OER Portfolio.” <link document="m15215">Learn more</link> about “My OER Portfolio.”</para>
+      </section>
+    </section>
+    <section id="id-66780451334">
+      <title>For More Information</title>
+      <para id="id11404525">The following resources have been selected to provide more information on concepts we covered in this module.</para>
+      <list list-type="bulleted" id="id7840322">
+        <item>Tagging (metadata): <link url="http://en.wikipedia.org/wiki/Tag_%28metadata%29">http://en.wikipedia.org/wiki/Tag_%28metadata%29</link></item>
+        <item>Metadata: <link url="http://en.wikipedia.org/wiki/Metadata">http://en.wikipedia.org/wiki/Metadata</link></item>
+        <item>TagClouds: <link url="http://en.wikipedia.org/wiki/Tagcloud">http://en.wikipedia.org/wiki/Tagcloud</link></item>
+        <item>Social bookmarking: <link url="http://www.educause.edu/ir/library/pdf/ELI7001.pdf">http://www.educause.edu/ir/library/pdf/ELI7001.pdf</link></item>
+      </list>
+    </section>
+    <section id="id-228572600237">
+      <title>Other modules in this course include …</title>
+      <list list-type="bulleted" id="id10737524">
+        <item>
+          <link document="m15211">Why OER?</link>
+        </item>
+        <item>
+          <link document="m15213">Finding OER Materials You Can Start Using Now</link>
+        </item>
+        <item>
+          <link document="m15215">My OER Portfolio</link>
+        </item>
+        <item>
+          <link document="m15235">Submitting Materials to OER Commons</link>
+        </item>
+        <item>
+          <link document="m15234">OER Licensing and Conditions of Use</link>
+        </item>
+        <item>
+          <link document="m15222">What is Localization?</link>
+        </item>
+        <item>
+          <link document="m15224">Students and OER</link>
+        </item>
+        <item>
+          <link document="m15226">What are Open Textbooks?</link>
+        </item>
+        <item>OER Case Study</item>
+        <item>
+          <link document="m15223">Glossary</link>
+        </item>
+      </list>
+      <para id="id11390506"/>
+      <para id="id10782907">This module showed how you can begin contributing to OER Commons by tagging, rating, and reviewing materials you have used. The next module, “<link document="m15215">My OER Portfolio</link>,” will show how using your OER Portfolio personalizes your use of OER Commons and gives you quick access to materials you have saved.</para>
+    </section>
+    <section id="id-818016140783">
+      <title>OER Commons Links</title>
+      <para id="id11006332">For more information about OER Commons, send an email to <link url="mailto:info@oercommons.org">info@oercommons.org</link>.</para>
+      <para id="id11099149">Use <link url="http://www.oercommons.org/feedback">this feedback form</link> to send OER Commons general feedback, a feature request, or information about a bug/problem you had using the site.</para>
+      <para id="id11892129">To see the ever-growing list of the new content providers and contributors to OER Commons, visit the <link url="http://www.oercommons.org/oer/providers">Content Providers</link> page often. You can be one too!</para>
+    </section>
+    <section id="id-176029374853">
+      <title>“Quotable Quote”</title>
+      <para id="id11243236">The form in which information is coded has, itself, an inescapable bias.<footnote id="idm5081792">Postman, N. (1988). <cite><cite-title>Conscientious Objections.</cite-title></cite> New York: Vintage Books.</footnote></para>
+    </section>
+    <section id="id-522941440432">
+      <title>About This Module</title>
+      <para id="id11785674"><emphasis>The "How Tos" of OER Commons </emphasis>is a set of learning modules evolving out of the development of OER Commons (<link url="http://www.oercommons.org/">http://www.oercommons.org</link>), a teaching and learning network for free-to-use educational materials from around the world, created and licensed by the Institute for the Study of Knowledge Management in Education (ISKME).</para>
+      <para id="id11405016">Course contributors are Lisa Petrides, Amee Godwin, and Cynthia Jimes, and online learning consultant, Patricia Delich.</para>
+      <para id="id11133906">For more information, visit <link url="http://www.iskme.org/">http://www.iskme.org</link> and <link url="http://elearningnetworks.com/">http://elearningnetworks.com</link>.</para>
+    </section>
+  </content>
+</document>

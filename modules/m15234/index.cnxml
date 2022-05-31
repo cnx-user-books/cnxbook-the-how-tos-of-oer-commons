@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>OER Licensing and Conditions of Use</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a0f1d5e1-5948-4dd4-936e-f6c8fcb9d3e3</md:uuid>
+</metadata>
+  <content>
+    <para id="id13641287">The module “<link document="m15235">Submitting Materials to OER Commons</link>” showed how to submit content items or links to items about the field of open education to OER Commons. This module, “OER Licensing and Conditions of Use,” will explain what authors need to know about licensing and conditions of use. It will also cover the licensing options in OER Commons.</para>
+    <section id="id-710651235257">
+      <title>What OER Authors Need to Know About Licensing</title>
+      <para id="id11978287">This module is intended to offer a general overview of the basics of licensing OER materials to assist you in using others’ materials as well as sharing your own. It will not cover the legalities of every aspect of intellectual property. Specifically, this module will cover the licensing options available in OER Commons as well as the conditions of use. The objective is to provide a basic understanding of licensing to help you make an informed choice as you both use and submit content to OER Commons. Here are a few scenarios to illustrate the types of material licensing issues an educator may face:</para>
+      <list list-type="bulleted" id="id11978291">
+        <item>You have created a set of Algebra materials and exercises and want to offer them for others to use, but want to make sure you receive attribution for your work.</item>
+        <item>You have written a story of a boy who travels to Central America with his family for your geography students, and are willing to share it with other teachers, but don’t necessarily want your name attached to it.</item>
+        <item>You have downloaded a useful exercise for your Wednesday afternoon science lab from an OER site, but aren’t sure if you can legally change it to meet your local needs.</item>
+        <item>You found a photograph of lemurs online, but you aren’t certain if you have permission to insert it into your PowerPoint presentation on Madagascar that you are preparing.</item>
+      </list>
+      <para id="id13450018">The philosophy of OER is based on the idea of sharing and re-using content. Because the restrictions of traditional <link url="http://www.copyright.gov/">copyright laws</link> are not appropriate for new media and the culture that has grown around it, legal experts in the field of new media have pioneered alternative legal frameworks for sharing, reusing, and remixing content. <link url="http://creativecommons.org/">Creative Commons</link> has been in the forefront of this movement; their goal is “to build a layer of reasonable, flexible copyright in the face of increasingly restrictive default rules.”</para>
+      <para id="id8200578">For an overview of the limitations of the traditional copyright system, and how Creative Commons addresses these limitations, watch this short video called “<link url="http://mirrors.creativecommons.org/getcreative">Get Creative</link>.”</para>
+      <para id="id13380693">When you submit materials to OER Commons to share with others, you be asked to choose a license for your work. During the materials submission process, you will be presented with three licensing options to choose from:</para>
+      <list list-type="enumerated" id="id14284054">
+        <item>Creative Commons</item>
+        <item>GNU Free Document</item>
+        <item>Custom/Other</item>
+      </list>
+      <para id="id10323896">This module will provide a description of each licensing option; however, because OER Commons recommends the use of Creative Commons licensing, this module will primarily focus on Creative Commons.</para>
+    </section>
+    <section id="id-548159911343">
+      <title>What is Creative Commons?</title>
+      <para id="id10816682">Creative Commons is a nonprofit organization that provides a free alternative to the restrictions of the traditional copyright laws. Offering several licensing options, authors have the flexibility to decide how they want others to use their materials. Watch this short video, “<link url="http://search.creativecommons.org/">Wanna Work Together?</link>,” for an overview of why you would want to use Creative Commons licensing.</para>
+      <para id="id13623548">Using a Creative Commons license does not mean you are giving up rights to copyrighting your work. This <link url="http://creativecommons.org/about/licenses">short overview</link> explains the four main licensing conditions and provides scenarios to illustrate how the licenses are used. To further understand Creative Commons licensing, read descriptions of the <link url="http://creativecommons.org/about/licenses/meet-the-licenses">six main licenses</link>.</para>
+      <figure id="id13623240">
+        <media id="idm13401536" alt=""><image src="../../media/graphics1-4539.jpg" mime-type="image/jpeg" height="256" width="359"/></media>
+      </figure>
+      <para id="id11925435">Figure 1: Creative Commons comic defining the spectrum of possibilities for copyrighting material. From: <link url="http://wiki.creativecommons.org/Spectrumofrights_Comic1">http://wiki.creativecommons.org/Spectrumofrights_Comic1</link></para>
+      <para id="id7240260">Before submitting your materials to OER Commons, and before deciding on a license, Creative Commons recommends you make sure that:</para>
+      <list list-type="bulleted" id="id8515794">
+        <item>a Creative Commons license can be applied to the type of work you want to license</item>
+        <item>you understand how Creative Commons licenses operate</item>
+        <item>you have the rights for the material</item>
+        <item>you are specific about what you are licensing</item>
+        <item>if you a member of a collecting society, you are allowed to use a Creative Commons license.</item>
+      </list>
+      <para id="id12665021"><link url="http://creativecommons.org/about/think">Read more</link> about what Creative Commons has to say about the above recommendations.</para>
+      <para id="id14270755">After ensuring you can use a Creative Commons license for your material, you are ready to take the next step in licensing it. During the process of submitting your material to OER Commons, you will be asked two questions to help determine which license is most appropriate for your needs. Figure 2 is a visual representation of the Creative Commons licensing form. You will see this form during the process of submitting your material to OER Commons—it appears as a link on the OER Commons submission form.</para>
+      <figure id="id9988384">
+        <media id="idm13255232" alt=""><image src="../../media/graphics2-07b8.jpg" mime-type="image/jpeg" height="705" width="599"/></media>
+      </figure>
+      <para id="id8786109">Figure 2. Visual representation of the form you will see when you complete the OER Commons submission form.</para>
+      <para id="id13762498">Look at <link url="http://www.oercommons.org/courses/ten-activities-to-consider-before-developing-your-first-online-course">this example</link> to see how a Creative Commons license is displayed for an item in OER Commons. On this page you will see an icon that represents the chosen Creative Commons license as well as a link to the license. In this instance the author chose the<emphasis/><link url="http://creativecommons.org/licenses/by-nc-sa/3.0">Attribution-Noncommercial-Share Alike 3.0 Unported</link><emphasis/>license. Let’s break down what each of these words mean:</para>
+      <list list-type="bulleted" id="id10659824">
+        <item>Attribution: You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</item>
+        <item>Noncommerical: You may not use this work for commercial purposes.</item>
+        <item>Share-Alike: If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</item>
+        <item>3.0: the version of this license.</item>
+        <item>Unported: the license has not been adapted for a local jurisdiction.</item>
+      </list>
+      <para id="id14053701">With this particular item, the author chose a license that allows others to copy, distribute, and transmit the work as well as <term>remix</term> it, which means you can adapt the work for your own use.</para>
+      <para id="id10324843">If you’d like more information about Creative Commons’ Version 3 license, read a <link url="http://wiki.creativecommons.org/Version_3">brief explanation</link> by their General Counsel.</para>
+      <section id="id-885280941045">
+        <title>Using Others’ Work</title>
+        <para id="id11463448">Before using someone else’s material you found in OER Commons, check the material’s licensing. This information can be found on the item’s overview page in the section called “Conditions of Use.” A link to the license is provided; the license will describe how the material’s author has specified the way it can be used.</para>
+      </section>
+      <section id="id-402851433337">
+        <title>Sharing Your Work</title>
+        <para id="id10113400">Here is a recap of how to license material you created and want to share in OER Commons using a Creative Commons’ license:</para>
+        <list list-type="enumerated" id="id13770680">
+          <item><link url="http://creativecommons.org/about/think">Determine</link> whether you can use a Creative Commons license for your work.</item>
+          <item>If necessary, replace or remove content that you do not have permission to use. Or get permission from the author(s) who hold the copyright.</item>
+          <item>Login to OER Commons and click on <link url="http://www.oercommons.org/matters">OER Matters</link>. This will take you to the page where the submission forms are located.</item>
+          <item>Complete the submission form, and decide which Creative Commons license you would like to use. The top-level choice is the most current Creative Commons license. You can choose an older license by clicking on the + icon next to “show/hide other Creative Commons licenses.</item>
+          <item>After you click the “Save” button on the bottom of the submission form, the license you chose will be attached to the material you submitted.</item>
+        </list>
+        <para id="id13450619">To see the item you submitted with the license you chose, go to your <link url="http://www.oercommons.org/my_portfolio">OER Portfolio</link>. You’ll need to be logged into OER Commons to view your portfolio. Once you are in your portfolio, click the link called “Items I have submitted.” Find the name of the item you submitted and click on its link. Look under “Conditions of Use” to see your license.</para>
+      </section>
+    </section>
+    <section id="id-584019740068">
+      <title>GNU Free Document License</title>
+      <para id="id13361659"><link url="http://www.gnu.org/licenses/fdl.html">GNU Free Document license</link> is another way to license your work for others to use. The GNU Free Documentation License (GNU FDL or simply GFDL) has been designed by the <link url="http://www.fsf.org/">Free Software Foundation</link> (FSF). The GFDL was intended for manuals, textbooks, other reference and instructional materials, and documentation for GNU and open source software. However, it can be used for any text-based work of any subject matter. For example, Wikipedia uses the GFDL for all of its text.</para>
+      <para id="id13697978">The GFDL license grants rights to readers and users of materials to copy, share, redistribute and modify a work. It requires all copies and derivatives to be available under the same license. Copies may also be sold commercially. There are specific requirements for modifying works involving crediting the creator of the work and for distributing large numbers of copies.</para>
+      <para id="id13376676">Here is <link url="http://www.oercommons.org/courses/creating-the-3d-storyboards">one example</link> of an item from OER Commons that uses the GNU Free Document license.</para>
+    </section>
+    <section id="id-165607661033">
+      <title>Custom/Other</title>
+      <para id="id13322297">Custom License is used to describe the terms granted and restrictions imposed by the copyright holder for a work covered by copyright in order to provide a clear alternative to “All Rights Reserved.” It simply allows the creator of a work to state conditions for which educators and learners may view, use, share, re-distribute, or modify a work. Allowing “use for educational purposes only,” for example, grants a reader or user of a work the opportunity to use it in a classroom or for personal learning or research purposes without needing to ask permission or pay a fee. Permission to alter a work may be prohibited or not, and the conditions may be specifically described. Commercial use may also be prohibited and can specifically be stated as such.</para>
+      <para id="id13322301">
+        <term>Non-compatibility of Licenses</term>
+      </para>
+      <para id="id13343994">The differing requirements and restrictions of Creative Commons (CC), GNU Free Documentation License (GFDL) and Custom-licensed or Copyrighted (All Rights Reserved) materials, make these licenses incompatible with each other. Combining content across license type is still a legal and technical obstacle for creating thoroughly remixable content.</para>
+    </section>
+    <section id="id-704717254563">
+      <title>OER Commons Conditions of Use</title>
+      <para id="id13192243">This section is from the <link url="http://www.oercommons.org/help/learn-more-about/conditions-of-use">OER Commons’ web site</link>:</para>
+      <para id="id13450841">OER Commons encourages the use of the <link url="http://creativecommons.org/">Creative Commons</link> licenses to govern the use of OER, but does not require them. Creative Commons is a framework for institutions and authors to specify limitations and freedoms around use and reuse of resources, beyond traditional copyright.</para>
+      <para id="id13344209">OER Commons allows Content Providers to describe custom licensing agreements that cover their resources. Many resources may inherit legacy licensing and copyright arrangements. Although we seek to point to open and reusable content, OER Commons in no way promotes the use of materials outside the particular legal restrictions imposed by a resource author or provider.</para>
+      <para id="id10304458">A brief introduction from Creative Commons' Choosing a License is here:</para>
+      <para id="id10304462">Offering OER under a Creative Commons license “does not mean giving up your copyright. It means offering some of your rights to any member of the public but only on certain conditions. What conditions? <link url="http://creativecommons.org/about/licenses/meet-the-licenses">You can find an overview of the Creative Commons licenses here</link>.”</para>
+      <para id="id12184073">All of the Creative Commons licenses require that a user or reuser of a resource "give attribution in the manner specified by the author or licensor."</para>
+      <section id="id-29952247433">
+        <title>OER stories from around the world</title>
+        <para id="id13297613">Read <link url="http://wiki.creativecommons.org/License_Examples">these three short stories</link> of how different people have used Creative Commons licensing for their work.</para>
+        <para id="id13327727">Your experience using open and freely shared course-related materials is valuable in the reuse and evolution of the materials. <link url="http://elearningnetworks.com/OERCommons/stories/submityourstory.html">Tell us your story</link>; how you’ve used these materials and how their use has impacted how you teach or learn.</para>
+      </section>
+    </section>
+    <section id="id-273195657602">
+      <title>Activity: Share Your Experience</title>
+      <para id="id14267080">At the core of OER use and re-use are legal issues surrounding the sharing, use, and re-use of OER as a way to sustain and grow the OER movement. In the OER Commons discussion “<link url="http://www.oercommons.org/matters/oer_topic/intellectual-property">Intellectual Property</link>,” share your thoughts about this important issue. Here are a few questions to consider in your post:</para>
+      <list list-type="enumerated" id="id11794654">
+        <item>How does the shift from proprietary to participatory impact OER?</item>
+        <item>How do current licenses serve the purpose of OER?</item>
+        <item>What does the concept of “open” mean to you? Which attributes of “openness” are most important to you?</item>
+      </list>
+    </section>
+    <section id="id-297413858683">
+      <title>For More Information</title>
+      <para id="id13321148">The following resource has been selected to provide more information on concepts we covered in this module.</para>
+      <para id="id13321153"/>
+      <list list-type="bulleted" id="id12185276">
+        <item>Watch the video “<link url="http://www.youtube.com/watch?v=CJn_jC4FNDo">A Fair(y) Use Tale</link>”</item>
+      </list>
+      <para id="id14098257">Professor Eric Faden of Bucknell University provides this humorous, yet informative, review of copyright principles delivered through the words of the very folks we can thank for nearly endless copyright terms. From: <link url="http://cyberlaw.stanford.edu/documentary-film-program/film/a-fair-y-use-tale">http://cyberlaw.stanford.edu/documentary-film-program/film/a-fair-y-use-tale</link></para>
+    </section>
+    <section id="id-634648647096">
+      <title>Other modules in this course include …</title>
+      <list list-type="bulleted" id="id13635468">
+        <item>
+          <link document="m15211">Why OER?</link>
+        </item>
+        <item>
+          <link document="m15213">Finding OER Materials You Can Start Using Now</link>
+        </item>
+        <item>
+          <link document="m15214">Tagging, Rating, and Reviewing OER Materials</link>
+        </item>
+        <item>
+          <link document="m15215">My OER Portfolio</link>
+        </item>
+        <item>
+          <link document="m15235">Submitting Materials to OER Commons</link>
+        </item>
+        <item>
+          <link document="m15222">What is Localization?</link>
+        </item>
+        <item>
+          <link document="m15224">Students and OER</link>
+        </item>
+        <item>
+          <link document="m15226">What are Open Textbooks?</link>
+        </item>
+        <item>OER Case Study</item>
+        <item>
+          <link document="m15223">Glossary</link>
+        </item>
+      </list>
+      <para id="id14213504"/>
+      <para id="id14213510">This module provided an overview of what authors need to know about licensing and conditions of use. We also talked about the licensing options in OER Commons. The next module, “<link document="m15222">What is Localization?</link>,” will provide an overview of localization—making content context-specific.</para>
+    </section>
+    <section id="id-465658859223">
+      <title>OER Commons Links</title>
+      <para id="id13360694">For more information about OER Commons, send an email to <link url="mailto:info@oercommons.org">info@oercommons.org</link>.</para>
+      <para id="id14145672">Use <link url="http://www.oercommons.org/feedback">this feedback form</link> to send OER Commons general feedback, a feature request, or information about a bug/problem you had using the site.</para>
+      <para id="id4979765">To see the ever-growing list of the new content providers and contributors to OER Commons, visit the <link url="http://www.oercommons.org/oer/providers">Content Providers</link> page often. You can be one too!</para>
+    </section>
+    <section id="id-473191336001">
+      <title>“Quotable Quote”</title>
+      <para id="id13366339">New media break up old knowledge monopolies; indeed, create new conceptions of knowledge, even new conceptions of politics.<footnote id="idm12886528">Postman, N. (1988). <cite><cite-title>Conscientious Objections.</cite-title></cite> New York: Vintage Books.</footnote></para>
+    </section>
+    <section id="id-745059278028">
+      <title>About This Module</title>
+      <para id="id11795695"><emphasis>The "How Tos" of OER Commons </emphasis>is a set of learning modules evolving out of the development of OER Commons (<link url="http://www.oercommons.org/">http://www.oercommons.org</link>), a teaching and learning network for free-to-use educational materials from around the world, created and licensed by the Institute for the Study of Knowledge Management in Education (ISKME).</para>
+      <para id="id12100454">Course contributors are Lisa Petrides, Amee Godwin, and Cynthia Jimes, and online learning consultant, Patricia Delich.</para>
+      <para id="id13192102">For more information, visit <link url="http://www.iskme.org/">http://www.iskme.org</link> and <link url="http://elearningnetworks.com/">http://elearningnetworks.com</link>.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>OER Glossary</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f7700b15-98c6-4297-841a-25adab46eca9</md:uuid>
+</metadata>
+  <content>
+    <para id="id7534063">The following terms have been used in the course “<link document="col10468">The How-Tos of OER Commons</link>.”</para>
+    <para id="id3994347">
+      <term/>
+    </para>
+    <para id="id8956383"><term>Bottom up</term>: an informational classification scheme that emerges from a grassroots level. In OER, tags are a bottom up way to classify data. The opposite of top down.</para>
+    <para id="id4949617"><term>Licensing</term>: The process of choosing and assigning a license to an open educational resource by the original creator of that resource. OER creators can choose from several licenses offered by organizations such as Creative Commons—with the license typically stipulating the conditions under which that resource can be used, shared, adapted, or distributed by other users.</para>
+    <para id="id8808173"><term>Localization</term>: The process through which educational resources are adapted to meet local teaching and learning needs. Resource localization might entail, e.g., translating a lesson plan into another language, removing parts of a course module that are too complex for a given set of students.</para>
+    <para id="id11958433"><term>Metadata</term>: Basic descriptive data about an educational resource, which help users more easily find and use the resource. It is “data about data,” or attributes that describe the data, and includes descriptors such as title, language, author, and grade level, creation date, etc.</para>
+    <para id="id3180094"><term>OER Commons</term>: OER that can be accessed through OER Commons are created, housed, and maintained through institutions, collections, and authors that partner with OER Commons to share their data.</para>
+    <para id="id8702278"><term>Open Educational Resources (OER)</term>: Teaching and learning materials that are freely available online for everyone to use, whether you are an instructor, student, or self-learner. Examples of OER include: full courses, course modules, syllabi, lectures, homework assignments, quizzes, lab and classroom activities, pedagogical materials, games, simulations, and many more resources contained in digital media collections from around the world.</para>
+    <para id="id4080259"><term>Open textbook</term>: Digitized textbooks freely available with nonrestrictive licenses.</para>
+    <para id="id3589625"><term>Parent materials</term>: Materials that belong to other people that you used in creating your own.</para>
+    <para id="id10415954"><term>Parent URL</term>: The web address where the parent materials are located.</para>
+    <para id="id2874478"><term>Peer production</term>: The process of online, collaborative content creation by peers, most often facilitated through an authoring platform or wiki. The project Free High School Science Texts, which draws on online volunteers and a collaborative authoring platform to create free-to-use textbooks for South African schools, is one example of the peer production process.</para>
+    <para id="id13048454"><term>Remix</term>: adapting the work for your own use.</para>
+    <para id="id12553815"><term>Reuse</term>: The adaptation, remixing or modification of OER for new and/or local purposes.</para>
+    <para id="id9533501"><term>TagCloud</term>: A set of tags associated with a resource or a set of resources, which are displayed in a cluster next to the resource(s). The size of the fonts that represent the tags in the cloud provides an indication of how common each tag is: Common tags that occur frequently across a set of resources are typically displayed in large, bold font, while less common tags are displayed in a smaller font.</para>
+    <para id="id11880469"><term>Tags</term>: Tags are a bottom up, user-generated classification system for educational resources, and frequently serve as an alternative or addition to a top down, expert-created classification system. Tags are words assigned to resources by the users of those resources. For example, one user of a lesson plan about the Spanish influenza of 1918 might assign a tag such as flu, while another might assign a tag such as pandemic. Once assigned by users, tags are tied to the given resource, and become a searchable way to find that resource as well as other resources that are tagged or associated with the same labels.</para>
+    <para id="id11752939"><term>Top down</term>: an informational classification scheme that is created by a site’s administrator. In OER, keywords are a top down way to classify data. The opposite of bottom up.</para>
+    <para id="id6038302"><term>URL pointer</term>: The web address where your shared materials are stored.</para>
+    <section id="id-913234096239">
+      <title>About This Module</title>
+      <para id="id9328258"><emphasis>The "How Tos" of OER Commons </emphasis>is a set of learning modules evolving out of the development of OER Commons (<link url="http://www.oercommons.org/">http://www.oercommons.org</link>), a teaching and learning network for free-to-use educational materials from around the world, created and licensed by the Institute for the Study of Knowledge Management in Education (ISKME).</para>
+      <para id="id3996935">Course contributors are Lisa Petrides, Amee Godwin, and Cynthia Jimes, and online learning consultant, Patricia Delich.</para>
+      <para id="id3280248">For more information, visit <link url="http://www.iskme.org/">http://www.iskme.org</link> and <link url="http://elearningnetworks.com/">http://elearningnetworks.com</link>.</para>
+    </section>
+  </content>
+</document>
